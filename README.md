@@ -4,7 +4,6 @@
 A system to efficiently manage, track, and organize food stock for businesses or personal use.
 Prevents food wastage, ensures timely restocking, and tracks inventory levels in real-time.
 
-
 **Important Features:**
 *.Add, Update, Delete Inventory:
 *.Manage food items with details like name, quantity, and expiration date.
